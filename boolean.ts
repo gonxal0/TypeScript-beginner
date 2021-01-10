@@ -9,3 +9,5 @@ console.log(soy_fan, "soy fan");
 console.log(soy_alto && soy_fan);
 //Operador disyunción
 console.log(soy_alto || soy_fan);
+//Retorno valor
+console.log(soy_fan.valueOf());
